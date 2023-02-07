@@ -1,0 +1,46 @@
+.header {
+    margin: 0;
+    padding: 3px;
+    width:  100%;
+    height: 10%;
+    background-color: rgba(0, 0, 0, .4);
+}
+
+.header p {
+    color: #fff;
+}
+
+.back {
+    position: absolute;
+    top: 0;
+    z-index: -100;
+}
+
+.block {
+    background-color: #FFF5DE;
+    padding: 0;
+}
+
+.block-head {
+    background-color: #2F2C25;
+    color: #fff;
+    width: 100%;
+    padding: 0 0 .8% 0;
+}
+
+.block-head p{
+    padding: 0 0 1% 0;
+    margin: 0;
+    border-bottom: #FFBD3E 1.5px solid;
+}
+
+.info {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.test {
+    background-color: #716a56;
+}
