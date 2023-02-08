@@ -34,6 +34,7 @@
 
 .block p {
     padding: .8em;
+    margin: 0;
 }
 
 .block-head {
